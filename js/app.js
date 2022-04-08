@@ -1,11 +1,11 @@
 
 var url = window.location.href;
-var swLocation = '/Twittor/sw.js';
+var swLocation = '/twittor/sw.js';
 
 
 if(navigator.serviceWorker) {
 
-    if(url.includes('localhost')){
+    if(url.includes('RamonRojas9987')){
         swLocation = '/sw.js';
     }
 
