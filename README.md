@@ -1,3 +1,3 @@
-# Twittor
+# MiDifMóvil
 
-Un cascarón de chat usando jQuery para PWAs
+Una pequeña muestra de PWA

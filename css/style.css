@@ -34,13 +34,13 @@
 }
 
 .seleccion-avatar {
-  width: 150px;
+  width: 120px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
   -o-border-radius: 50%;
   border-radius: 50%;
-  border: 5px solid #ecf0f1;
+  border: 5px solid #691c20;
   position: relative; 
 }
 
@@ -253,10 +253,9 @@ textarea {
     position: fixed;
     z-index: 999;
     top: 0px;
-
+    background-color: #691c20;
     margin: auto;
-    background-color: #3498db;
-    text-shadow: #2084c7 1px 1px 0;
+    text-shadow: #bc955c 1px 1px 0;
     padding: 1em 0 !important;
     color: white;
     text-align: center;

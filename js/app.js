@@ -1,6 +1,6 @@
 
 var url = window.location.href;
-var swLocation = '/twittor/sw.js';
+var swLocation = '/MiDifMovil/sw.js';
 
 
 if(navigator.serviceWorker) {
@@ -42,7 +42,7 @@ function crearMensajeHTML(mensaje, personaje) {
     var content =`
     <li class="animated fadeIn fast">
         <div class="avatar">
-            <img src="img/avatars/${ personaje }.jpg">
+            <img src="img/avatars/${ personaje }.png">
         </div>
         <div class="bubble-container">
             <div class="bubble">
@@ -71,14 +71,14 @@ function logIn( ingreso ) {
         salirBtn.removeClass('oculto');
         timeline.removeClass('oculto');
         avatarSel.addClass('oculto');
-        modalAvatar.attr('src', 'img/avatars/' + usuario + '.jpg');
+        modalAvatar.attr('src', 'img/avatars/' + usuario + '.png');
     } else {
         nuevoBtn.addClass('oculto');
         salirBtn.addClass('oculto');
         timeline.addClass('oculto');
         avatarSel.removeClass('oculto');
 
-        titulo.text('Seleccione Personaje');
+        titulo.text('Selecciona un programa');
     
     }
 

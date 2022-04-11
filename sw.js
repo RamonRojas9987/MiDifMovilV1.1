@@ -11,11 +11,12 @@ const APP_SHELL = [
     'index.html',
     'css/style.css',
     'img/favicon.ico',
-    'img/avatars/hulk.jpg',
-    'img/avatars/ironman.jpg',
-    'img/avatars/spiderman.jpg',
-    'img/avatars/thor.jpg',
-    'img/avatars/wolverine.jpg',
+    'img/avatars/iconos app-02.png',
+    'img/avatars/iconos app-03.png',
+    'img/avatars/iconos app-04.png',
+    'img/avatars/iconos app-05.png',
+    'img/avatars/iconos app-06.png',
+    'img/avatars/iconos app-07.png',
     'js/app.js',
     'js/sw-utils.js'
 
