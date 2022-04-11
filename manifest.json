@@ -3,10 +3,10 @@
     "name": "MiDifMovil",
     "id": "index.html",
     "start_url": "index.html",
-    "background_color": "#F0FFFF",
+    "background_color": "#808080",
     "display": "standalone",
     "orientation": "portrait",
-    "theme_color": "#F0FFFF",
+    "theme_color": "#808080",
     "icons": [
         {
             "src": "img/icons/icon-72x72.png",
