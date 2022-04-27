@@ -1,6 +1,6 @@
 
 var url = window.location.href;
-var swLocation = '/MiDifMovil/sw.js';
+var swLocation = '/MiDifMovilV1.1/sw.js';
 
 
 if(navigator.serviceWorker) {
