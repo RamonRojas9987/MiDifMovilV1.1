@@ -17,6 +17,12 @@ const APP_SHELL = [
     'img/avatars/iconos app-05.png',
     'img/avatars/iconos app-06.png',
     'img/avatars/iconos app-07.png',
+    'pages/renovacion.html',
+    'pages/submenus/Beneficiario.html',
+    'pages/submenus/DatosContacto.html',
+    'pages/submenus/DatosEscolares.html',
+    'pages/submenus/MoT.html',
+    'pages/submenus/PoT.html',
     'js/app.js',
     'js/sw-utils.js'
 
